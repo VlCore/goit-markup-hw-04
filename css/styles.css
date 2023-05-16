@@ -355,6 +355,7 @@ img {
 
 .team-soc-list {
     display: flex;
+    justify-content: center;
     gap: 24px;
     margin-top: 8px;
 
